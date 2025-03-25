@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/c03fffdc0b69455d9fdd2762c14e0516/artifacts
+end_time: 1742884835294
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: c03fffdc0b69455d9fdd2762c14e0516
+run_name: calm-frog-4
+run_uuid: c03fffdc0b69455d9fdd2762c14e0516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884834046
+status: 3
+tags: []
+user_id: teato

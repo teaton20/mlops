@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/ea370203e7844d618a7af11a0098f6b4/artifacts
+end_time: 1742884715752
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: ea370203e7844d618a7af11a0098f6b4
+run_name: abundant-wasp-457
+run_uuid: ea370203e7844d618a7af11a0098f6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884714600
+status: 3
+tags: []
+user_id: teato

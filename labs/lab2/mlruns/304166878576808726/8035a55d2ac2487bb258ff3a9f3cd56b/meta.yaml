@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/8035a55d2ac2487bb258ff3a9f3cd56b/artifacts
+end_time: 1742884838815
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 8035a55d2ac2487bb258ff3a9f3cd56b
+run_name: treasured-croc-335
+run_uuid: 8035a55d2ac2487bb258ff3a9f3cd56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884837530
+status: 3
+tags: []
+user_id: teato

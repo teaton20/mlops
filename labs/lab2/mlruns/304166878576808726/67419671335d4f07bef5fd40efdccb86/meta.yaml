@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/67419671335d4f07bef5fd40efdccb86/artifacts
+end_time: 1742884714598
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 67419671335d4f07bef5fd40efdccb86
+run_name: orderly-fawn-70
+run_uuid: 67419671335d4f07bef5fd40efdccb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884713386
+status: 3
+tags: []
+user_id: teato

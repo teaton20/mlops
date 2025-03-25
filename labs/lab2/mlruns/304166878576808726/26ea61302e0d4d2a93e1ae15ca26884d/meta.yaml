@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/26ea61302e0d4d2a93e1ae15ca26884d/artifacts
+end_time: 1742884716869
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 26ea61302e0d4d2a93e1ae15ca26884d
+run_name: sincere-squid-181
+run_uuid: 26ea61302e0d4d2a93e1ae15ca26884d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884715754
+status: 3
+tags: []
+user_id: teato

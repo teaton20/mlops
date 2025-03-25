@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/10cad46a24784d4faaecfa1ecef05163/artifacts
+end_time: 1742884718150
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 10cad46a24784d4faaecfa1ecef05163
+run_name: sedate-flea-276
+run_uuid: 10cad46a24784d4faaecfa1ecef05163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884716871
+status: 3
+tags: []
+user_id: teato

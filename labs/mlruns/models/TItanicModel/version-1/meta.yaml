@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742892381507
+current_stage: None
+description: ''
+last_updated_timestamp: 1742892381507
+name: TItanicModel
+run_id: 93788bda41954d98957109d64b5f110f
+run_link: ''
+source: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/mlruns/754304158241972679/93788bda41954d98957109d64b5f110f/artifacts/decision_tree_model
+status: READY
+status_message: null
+storage_location: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/mlruns/754304158241972679/93788bda41954d98957109d64b5f110f/artifacts/decision_tree_model
+user_id: null
+version: 1

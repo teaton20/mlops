@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/c550c3dedf754dc1aa57932b25f81a01/artifacts
+end_time: 1742884826684
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: c550c3dedf754dc1aa57932b25f81a01
+run_name: dashing-sponge-968
+run_uuid: c550c3dedf754dc1aa57932b25f81a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884825656
+status: 3
+tags: []
+user_id: teato

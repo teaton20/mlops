@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/dc8e1a84537d47ae8016519f62dea6c7/artifacts
+end_time: 1742884713385
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: dc8e1a84537d47ae8016519f62dea6c7
+run_name: fun-hog-659
+run_uuid: dc8e1a84537d47ae8016519f62dea6c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884712054
+status: 3
+tags: []
+user_id: teato

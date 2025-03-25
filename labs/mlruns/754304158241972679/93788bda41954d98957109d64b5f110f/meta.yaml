@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/mlruns/754304158241972679/93788bda41954d98957109d64b5f110f/artifacts
+end_time: 1742883997225
+entry_point_name: ''
+experiment_id: '754304158241972679'
+lifecycle_stage: active
+run_id: 93788bda41954d98957109d64b5f110f
+run_name: charming-mare-334
+run_uuid: 93788bda41954d98957109d64b5f110f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742883995626
+status: 3
+tags: []
+user_id: teato

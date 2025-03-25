@@ -1,0 +1,4 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,max_depth,max_iter,model_type,n_estimators,val_accuracy
+2025-03-24 23:26:35,1.6s,93788bda41954d98957109d64b5f110f,charming-mare-334,LOCAL,/Users/teato/.local/lib/python3.12/site-packages/ipykernel_launcher.py,teato,FINISHED,5,,DecisionTree,,0.7938931298
+2025-03-24 23:27:00,1.6s,19adef56f29443238960d8207749522e,resilient-crane-315,LOCAL,/Users/teato/.local/lib/python3.12/site-packages/ipykernel_launcher.py,teato,FINISHED,7,,RandomForest,100,0.7824427481
+2025-03-24 23:24:52,1.5s,42fe15b07de64897b03574926b896a6f,powerful-lamb-638,LOCAL,/Users/teato/.local/lib/python3.12/site-packages/ipykernel_launcher.py,teato,FINISHED,,1000,LogisticRegression,,0.7824427481

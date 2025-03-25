@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/3014563f3406421db12f5e415511cffb/artifacts
+end_time: 1742884830299
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 3014563f3406421db12f5e415511cffb
+run_name: sneaky-jay-981
+run_uuid: 3014563f3406421db12f5e415511cffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884829067
+status: 3
+tags: []
+user_id: teato

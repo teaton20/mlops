@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/78654cc2a5ca401096691ae2f5200ff4/artifacts
+end_time: 1742884260816
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 78654cc2a5ca401096691ae2f5200ff4
+run_name: righteous-ape-596
+run_uuid: 78654cc2a5ca401096691ae2f5200ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884258915
+status: 3
+tags: []
+user_id: teato

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/fde5215f9d754ba5ae783ebfce20c301/artifacts
+end_time: 1742884827851
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: fde5215f9d754ba5ae783ebfce20c301
+run_name: tasteful-crab-323
+run_uuid: fde5215f9d754ba5ae783ebfce20c301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884826685
+status: 3
+tags: []
+user_id: teato

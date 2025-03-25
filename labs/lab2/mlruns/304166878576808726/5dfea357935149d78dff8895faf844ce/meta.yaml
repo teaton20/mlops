@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/5dfea357935149d78dff8895faf844ce/artifacts
+end_time: 1742884824533
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 5dfea357935149d78dff8895faf844ce
+run_name: clumsy-seal-738
+run_uuid: 5dfea357935149d78dff8895faf844ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884823366
+status: 3
+tags: []
+user_id: teato

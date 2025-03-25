@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/b831dd635f58413dbde45688fd937263/artifacts
+end_time: 1742884689281
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: b831dd635f58413dbde45688fd937263
+run_name: bedecked-dog-764
+run_uuid: b831dd635f58413dbde45688fd937263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884688180
+status: 3
+tags: []
+user_id: teato

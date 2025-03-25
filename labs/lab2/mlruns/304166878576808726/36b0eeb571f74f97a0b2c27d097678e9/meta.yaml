@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/36b0eeb571f74f97a0b2c27d097678e9/artifacts
+end_time: 1742884816938
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 36b0eeb571f74f97a0b2c27d097678e9
+run_name: exultant-hog-974
+run_uuid: 36b0eeb571f74f97a0b2c27d097678e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884815640
+status: 3
+tags: []
+user_id: teato

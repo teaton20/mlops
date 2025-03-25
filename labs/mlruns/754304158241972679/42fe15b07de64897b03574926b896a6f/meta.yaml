@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/mlruns/754304158241972679/42fe15b07de64897b03574926b896a6f/artifacts
+end_time: 1742883893483
+entry_point_name: ''
+experiment_id: '754304158241972679'
+lifecycle_stage: active
+run_id: 42fe15b07de64897b03574926b896a6f
+run_name: powerful-lamb-638
+run_uuid: 42fe15b07de64897b03574926b896a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742883892005
+status: 3
+tags: []
+user_id: teato

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/661c7358dd54405f857dbb289b5fdcd3/artifacts
+end_time: 1742884819070
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 661c7358dd54405f857dbb289b5fdcd3
+run_name: rogue-chimp-140
+run_uuid: 661c7358dd54405f857dbb289b5fdcd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884818010
+status: 3
+tags: []
+user_id: teato

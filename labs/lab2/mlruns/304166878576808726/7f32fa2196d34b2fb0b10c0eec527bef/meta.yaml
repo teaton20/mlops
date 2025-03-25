@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teato/Documents/msds_virtual_environment/msds/USF%20MSDS/Spring%20Mod2/603%20-%20ML%20Ops/labs/lab2/mlruns/304166878576808726/7f32fa2196d34b2fb0b10c0eec527bef/artifacts
+end_time: 1742884265499
+entry_point_name: ''
+experiment_id: '304166878576808726'
+lifecycle_stage: active
+run_id: 7f32fa2196d34b2fb0b10c0eec527bef
+run_name: angry-crab-485
+run_uuid: 7f32fa2196d34b2fb0b10c0eec527bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742884264156
+status: 3
+tags: []
+user_id: teato
