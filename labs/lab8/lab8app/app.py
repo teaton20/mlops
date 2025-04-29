@@ -2,20 +2,22 @@ from fastapi import FastAPI
 import joblib
 import pandas as pd
 
-# Create app
 app = FastAPI()
 
-# Load model
+# Load full pipeline (Tfidf + LogisticRegression)
 model = joblib.load("reddit_model_pipeline.joblib")
 
-# Root endpoint
 @app.get("/")
 def read_root():
-    return {"message": "Hey babe, the API is serving joblib realness."}
+    return {"message": "Heyyyyy. The API is serving joblib realness."}
 
-# Predict endpoint
 @app.post("/predict")
 def predict(data: dict):
     df = pd.DataFrame([data])
     prediction = model.predict(df)[0]
-    return {"prediction": str(prediction)}
+    proba = model.predict_proba(df)[0]  # get probs for all classes
+    confidence = round(max(proba) * 100, 2)  # highest prob as %
+    return {
+        "prediction": int(prediction),
+        "confidence": f"{confidence}%"
+    }
